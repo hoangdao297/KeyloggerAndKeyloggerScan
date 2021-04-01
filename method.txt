@@ -1,0 +1,4 @@
+for example we copy the shortcut of the real application to our folder
+then change the target of the shortcut to the .bat file
+then delete the real shortcut and fake it with our shortcut
+Thats how we can spy user via keylogger on specifit target application!!!
